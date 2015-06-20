@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/icon-close.png</file>
+        <file>img/mini.png</file>
+        <file>img/non_bind.png</file>
+        <file>img/bind.png</file>
+        <file>img/tray.png</file>
+        <file>img/add.png</file>
+        <file>img/background .jpg</file>
+        <file>img/QPMask.png</file>
+        <file>img/mask.png</file>
+    </qresource>
+</RCC>
