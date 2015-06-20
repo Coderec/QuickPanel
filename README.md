@@ -1,0 +1,2 @@
+# QuickPanel
+A launching panel
